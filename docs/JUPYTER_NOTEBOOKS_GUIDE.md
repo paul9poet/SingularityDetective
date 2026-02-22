@@ -307,13 +307,5 @@ Happy exploring! 🎓🚀
 
 ---
 
-If you’d like next, I can also provide:
-
-👉 a **notebook template skeleton** with starter cells & narrative blocks  
-👉 a **requirements.txt** matching the notebooks  
-👉 example notebook content (e.g., computing spectral entropy or visualizing the Katrina simulation)
-
-Just tell me what you’d like next!
-::contentReference[oaicite:0]{index=0}
 
 
