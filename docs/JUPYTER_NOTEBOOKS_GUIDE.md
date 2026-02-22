@@ -46,7 +46,10 @@ You can install the necessary packages with:
 ```bash
 pip install jupyter numpy matplotlib pandas scipy
 
-📘 docs/JUPYTER_NOTEBOOKS_GUIDE.md (Extended)
+
+
+
+ (Extended)
 # Jupyter Notebooks Guide  
 ## AGI-ColdCases / SingularityDetective
 
