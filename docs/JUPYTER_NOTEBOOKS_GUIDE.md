@@ -48,6 +48,8 @@ pip install jupyter numpy matplotlib pandas scipy
 
 
 
+....
+
 
  (Extended)
 # Jupyter Notebooks Guide  
