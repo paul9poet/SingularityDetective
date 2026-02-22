@@ -2,15 +2,24 @@
 __pycache__/
 *.py[cod]
 .venv/
+venv/
+env/
 *.env
 
-# Lisp
+# Lisp / Implementation
 *.fasl
 *.lisp~
 *.lx64fsl
+*.y64fsl
 
 # Jupyter
 .ipynb_checkpoints
+*.ipynb_checkpoints
 
-# Logs
+# Logs & outputs
 *.json
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
