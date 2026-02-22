@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.env
+
+# Lisp
+*.fasl
+*.lisp~
+*.lx64fsl
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.json
