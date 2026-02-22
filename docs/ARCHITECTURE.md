@@ -79,3 +79,29 @@ Logs can be re-evaluated, audited, and analyzed independently.
 ---
 
 ## 🧭 Architectural Flow
+
+Environment Inputs
+↓
+Numeric Hub (Python) → Risk Scores
+↓
+VSA Binding (Lossless)
+↓
+Symbolic Hub (Lisp)
+↕
+ToPos-Governed Constraints
+↓
+Audit Engine (Immutable Logs)
+↓
+Final Decision + Explanation Trace
+
+
+---
+
+## 📈 Why This Architecture Matters
+
+- It enables **proveable ethical reasoning**
+- It decouples numerical data from policy logic
+- It makes decisions **explainable**, not just probable
+- It avoids the “black box” problem inherent in deep learning
+
+This hybrid design is the foundation of a *structurally intelligent system*.
